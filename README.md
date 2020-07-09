@@ -1,2 +1,2 @@
-# Melon Council DAO -bounties
-Gitcoin Bounties for the Melon Protocol
+# Melon Council DAO - bounties
+Bounties for the Melon Protocol
